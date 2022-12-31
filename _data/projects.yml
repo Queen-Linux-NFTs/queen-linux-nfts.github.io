@@ -13,21 +13,30 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Wives of the Future
+  descr: "Potential Wives of the Future - Is this what we are barreling towards?"
+  demo: https://opensea.io/collection/wives-of-the-future
+  demo-contract: "0x495f947276749ce646f68ac8c248420045cb7b5e"
+  demo-token: "22176117569172953848175605113995043088088791683134261308094269135653173198853"
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Female
+    - tag: Fantasy
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Beasts of the Future
+  descr: "Potential Beasts of the Future"
+  demo: https://opensea.io/collection/beasts-of-the-future
+  demo-contract: "0x495f947276749ce646f68ac8c248420045cb7b5e"
+  demo-token: "22176117569172953848175605113995043088088791683134261308094269141150731337733"
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: Animals
+    - tag: Fantasy
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Future Zodiac
+  descr: "Zodiac of the Future"
+  demo: https://opensea.io/collection/future-zodiac
+  demo-contract: "0x495f947276749ce646f68ac8c248420045cb7b5e"
+  demo-token: "22176117569172953848175605113995043088088791683134261308094269162041452265477"
+  tags:
+    - tag: Fantasy
+    - tag: Animals
+    - tag: Mythology
