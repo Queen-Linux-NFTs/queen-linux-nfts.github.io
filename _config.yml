@@ -7,7 +7,9 @@ title: Queen Linux NFTs
 description: QueenLinux NFT Gallery
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/nft"
+domain: queen-linux-technology-group.github.io
+url: https://queen-linux-technology-group.github.io
+baseurl: "/ql-nft-site/"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
