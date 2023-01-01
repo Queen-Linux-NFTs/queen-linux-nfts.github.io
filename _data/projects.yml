@@ -13,6 +13,16 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: Flowers of Infatuation
+  descr: "5K Mandalas, over 100 different degrees of variance per ring"
+  demo: https://opensea.io/collection/flowers-of-infatuation
+  demo-contract: "0x495f947276749ce646f68ac8c248420045cb7b5e"
+  demo-token: "22176117569172953848175605113995043088088791683134261308094269181832661565441"
+  tags:
+    - tag: Spiritual
+    - tag: Fractal
+    - tag: Mandala
+
 - name: Wives of the Future
   descr: "Potential Wives of the Future - Is this what we are barreling towards?"
   demo: https://opensea.io/collection/wives-of-the-future
