@@ -13,6 +13,16 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: Rainbow SnowflakeZ
+  descr: "Snowflake Mandalas in a unique GIF Format, 5 Snowflakes per unit"
+  demo: https://opensea.io/collection/rainbow-snowflakez
+  demo-contract: "0x495f947276749ce646f68ac8c248420045cb7b5e"
+  demo-token: "22176117569172953848175605113995043088088791683134261308094269189529242959873"
+  tags:
+    - tag: Spiritual
+    - tag: Fractal
+    - tag: Mandala
+
 - name: Flowers of Infatuation
   descr: "5K Mandalas, over 100 different degrees of variance per ring"
   demo: https://opensea.io/collection/flowers-of-infatuation
